@@ -1,0 +1,11 @@
+U:\competency Framework\Projects\AdapterPattern\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe.config
+U:\competency Framework\Projects\AdapterPattern\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe
+U:\competency Framework\Projects\AdapterPattern\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.pdb
+U:\competency Framework\Projects\AdapterPattern\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\Newtonsoft.Json.dll
+U:\competency Framework\Projects\AdapterPattern\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\Newtonsoft.Json.pdb
+U:\competency Framework\Projects\AdapterPattern\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\Newtonsoft.Json.xml
+U:\competency Framework\Projects\AdapterPattern\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csprojAssemblyReference.cache
+U:\competency Framework\Projects\AdapterPattern\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+U:\competency Framework\Projects\AdapterPattern\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csproj.CopyComplete
+U:\competency Framework\Projects\AdapterPattern\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.exe
+U:\competency Framework\Projects\AdapterPattern\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.pdb
